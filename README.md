@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Be patient with me, I'm still figure this all out 🌱
+ * *this = life in general
+
 ### References and Resources:
 
 * <https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7>
