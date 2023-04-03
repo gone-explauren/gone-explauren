@@ -1,5 +1,3 @@
-<!-- [![Header](https://raw.githubusercontent.com/gone-explauren/gone-explauren/gone-explauren/readme_header.png "Header")] -->
-
 # Hi there~!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
