@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  *this** *= life in general*
 
 
-. ｡☆![GitHub stats](https://github-readme-stats.vercel.app/api?username=gone-explauren&show_icons=true&theme=gruvbox_light) * ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gone-explauren&theme=gruvbox_light)★. .
+. .☆![GitHub stats](https://github-readme-stats.vercel.app/api?username=gone-explauren&show_icons=true&theme=gruvbox_light) * ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gone-explauren&theme=gruvbox_light)★｡ .
 
 
 <!-- 
