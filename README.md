@@ -14,24 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Full-Stack Dev, Poet, Artist, Aspiring Human
 
-### Hi there~! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there~! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 * ✨ I’m exploring ...
     * AWS, SQS, SNS, fun stuff on the backend
 * 🌈 My pronouns: 
     * she/they/he/it/any
-* 🛼 Fun fact:
-    * I'm a bird nerd! I've got five 🦜🦜🦜🦜🦜 beautiful parrots
-    * Here is my boi, Shasta: 
+* 🛼 Fun facts:
+    * Vinyl collecor
+    * Outdoors enthusiast
+    * Bird nerd 🦜🦜🦜🦜🦜
+    * Here's my boi, Shasta: 
 
-｡･:*:･ﾟ★,｡･:*:･ﾟ☆![shasta](https://user-images.githubusercontent.com/123340286/234076761-9fb79c0e-fe7c-4a0d-9cb5-32a6688ec183.jpg)｡:･ﾟ☆*:･ﾟ★,｡･:*:･｡
+｡･:*:★,｡･:*:･ﾟ☆![shasta](https://user-images.githubusercontent.com/123340286/234076761-9fb79c0e-fe7c-4a0d-9cb5-32a6688ec183.jpg)｡:･ﾟ☆*:･ﾟ★,｡･:*:･｡
 
 ### Be patient with me, I'm still figure this* all out 🌱
- * *this = life in general*
+ *this** *= life in general*
+
+
+. .｡･☆｡･![GitHub stats](https://github-readme-stats.vercel.app/api?username=gone-explauren&show_icons=true&theme=gruvbox_light).｡･☆*･ﾟ*★*,｡･.![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gone-explauren&theme=gruvbox_light)｡:★*｡･. .
+
 
 <!-- 
 ### References and Resources:
 
 * <https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7>
-* <https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7> 
+* <https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7>
+* <https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5>
 -->
