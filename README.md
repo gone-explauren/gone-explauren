@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     * Bird nerd 🦜🦜🦜🦜🦜
     * Here's my boi, Shasta: 
 
-.｡･:★,｡･:*☆:.![shasta](https://user-images.githubusercontent.com/123340286/234076761-9fb79c0e-fe7c-4a0d-9cb5-32a6688ec183.jpg)｡:･☆ *:･ﾟ★,｡:･｡ .
+.｡･: .★,｡･:*☆:.![shasta](https://user-images.githubusercontent.com/123340286/234076761-9fb79c0e-fe7c-4a0d-9cb5-32a6688ec183.jpg)｡:･☆ *:･ﾟ★,｡:･｡ .
 
 ### Be patient with me, I'm still figure this* all out 🌱
  *this** *= life in general*
