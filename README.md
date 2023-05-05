@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * ✨ I’m exploring ...
     * AWS, SQS, SNS, fun stuff on the backend
 * 🌈 My pronouns: 
-    * she/they/he/it/any
+    * any
 * 🛼 Fun facts:
     * Vinyl collecor
     * Outdoors enthusiast
