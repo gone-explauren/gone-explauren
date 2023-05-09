@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * 🌈 My pronouns: 
     * any
 * 🛼 Fun facts:
-    * Vinyl collecor
+    * Vinyl collector
     * Outdoors enthusiast
     * Bird nerd 🦜🦜🦜🦜🦜
     * Here's my boi, Shasta: 
