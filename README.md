@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 ## Hi there~! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 * ✨ I’m exploring ...
-    * AWS, SQS, SNS, fun stuff on the backend
+    * Redux
+    * Next.js
+    * React Native
 * 🌈 My pronouns: 
     * any
 * 🛼 Fun facts:
