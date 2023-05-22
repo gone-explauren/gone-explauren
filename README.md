@@ -21,6 +21,7 @@ Here are some ideas to get you started:
     * Redux
     * Next.js
     * React Native
+    * SCSS
 * 🌈 My pronouns: 
     * any
 * 🛼 Fun facts:
